@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\hieud\\Downloads\\Cp\\KTA\\test.cpp","tests":[{"id":1735704311357,"input":"5\n5 3 1 0 9","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hieud\\Downloads\\Cp\\KTA\\test.cpp","group":"local","local":true}
